@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Leaflet   OpenStreetMap contributors</name>
+   <tag></tag>
+   <elementGuidId>1f9ac15f-b7df-435f-8be3-0929e63014c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.leaflet-control-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='map']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;+−Leaflet | © OpenStreetMap contributors&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c18a2eac-13df-4c29-a5aa-7533c26a210a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leaflet-control-container</value>
+      <webElementGuid>78fa3b3f-4381-4cd9-9d67-bbb9811c1339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+−Leaflet | © OpenStreetMap contributors</value>
+      <webElementGuid>e988d898-8a3d-48d9-a8a4-7ebc0ca012ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;map&quot;)/div[@class=&quot;leaflet-control-container&quot;]</value>
+      <webElementGuid>2f265f1c-575a-42a3-a34f-19a1bb5eb5d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='map']/div[2]</value>
+      <webElementGuid>d133ca00-bae2-438e-b670-3cbc50c9b8dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[2]</value>
+      <webElementGuid>56ed655f-2da0-4271-8fdd-6f57aeb9534a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi'])[1]/following::div[4]</value>
+      <webElementGuid>b5ecb770-f7c0-46c8-8b63-a77a91915e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]</value>
+      <webElementGuid>2cf8c744-770e-4f3a-95ea-5c1fd103d3e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '+−Leaflet | © OpenStreetMap contributors' or . = '+−Leaflet | © OpenStreetMap contributors')]</value>
+      <webElementGuid>1585c1f3-c63c-4198-9be9-90fd0785f842</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Web Browser/Page_Lapor Folkatech - Login/iframe_html1body1div1div4iframe1_c-qu9hi0aet56q",
+      "brokenLocator": "//iframe[@name\u003d\u0027c-qu9hi0aet56q\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[4]/iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Web Browser/Page_Lapor Folkatech - Login/iframe_html1body1div1div4iframe1_c-qu9hi0aet56q_position.png"
+    }
+  ]
+}

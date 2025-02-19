@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_open_img img-fluid min-vh-50 max-height-vh-50</name>
+   <tag></tag>
+   <elementGuidId>3dd432ba-3b6f-4bc8-8297-a75f794d1c5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img.img-fluid.min-vh-50.max-height-vh-50</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://lapor.folkatech.com/storage/reports/gC8rT_1739929194.jpg')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=article >> internal:role=link >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>03af8206-6a01-4d88-ad48-5460c419ffaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img img-fluid min-vh-50 max-height-vh-50</value>
+      <webElementGuid>b135feeb-e845-47ad-b720-93f360ede42e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://lapor.folkatech.com/storage/reports/gC8rT_1739929194.jpg</value>
+      <webElementGuid>a88e5a74-7449-45e7-85a3-89456c8cea5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;g-sidenav-show bg-gray-100 modal-open&quot;]/main[@class=&quot;main-content position-relative max-height-vh-100 h-100 border-radius-lg ps ps--active-y&quot;]/div[@class=&quot;container-fluid py-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;col-lg-12&quot;]/article[1]/section[@class=&quot;mb-5 mt-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-7&quot;]/div[@class=&quot;row mt-2 mb-2&quot;]/div[@class=&quot;max-height-vh-50&quot;]/a[1]/div[@class=&quot;bg-gray-300 d-flex justify-content-center align-items-center&quot;]/img[@class=&quot;img img-fluid min-vh-50 max-height-vh-50&quot;]</value>
+      <webElementGuid>5ce7a369-4261-48ce-b7b2-92fc500486fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://lapor.folkatech.com/storage/reports/gC8rT_1739929194.jpg')]</value>
+      <webElementGuid>35c06b01-ad5f-4351-9741-234aaa78756a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/img</value>
+      <webElementGuid>66e9429a-01d5-4678-9208-39c99fdf8714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://lapor.folkatech.com/storage/reports/gC8rT_1739929194.jpg']</value>
+      <webElementGuid>d2929500-1787-41c6-936d-d46c19ded290</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

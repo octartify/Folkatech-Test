@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Password_eye__password bx bx-show</name>
+   <tag></tag>
+   <elementGuidId>49b2bc58-e11e-497d-9f0d-1f6d8fd40804</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.eye__password.bx.bx-show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='togglePassword']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>19c7cfa9-4604-485b-866b-eb3f7a1dbed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eye__password bx bx-show</value>
+      <webElementGuid>2a68a540-d225-4be8-9276-a93a68e9d85c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;togglePassword&quot;)/i[@class=&quot;eye__password bx bx-show&quot;]</value>
+      <webElementGuid>13f096c3-7270-4ac4-ae80-0f281a85db79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='togglePassword']/i</value>
+      <webElementGuid>38de9cf0-28a6-4096-8d74-f6fe1a74505e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>dbf8056d-121f-4e17-90a5-ce6727c35832</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 133.0.0.0,,,19-02-2025 15:29:59,19-02-2025 15:31:56,1m - 57.225s,PASSED
+,,,,,,,
+Test Cases/Fitur Menu Laporan,Chrome 133.0.0.0,,,19-02-2025 15:29:59,19-02-2025 15:31:56,1m - 56.871s,PASSED
+"openBrowser("""")",Chrome 133.0.0.0,,,19-02-2025 15:29:59,19-02-2025 15:30:02,2.412s,PASSED
+"navigateToUrl(""https://lapor.folkatech.com/"")",Chrome 133.0.0.0,,,19-02-2025 15:30:02,19-02-2025 15:30:06,4.480s,PASSED
+"setText(findTestObject(""Object Repository/Web Browser/Page_Lapor Folkatech - Login/input_Email_email""), ""admin@example.com"")",Chrome 133.0.0.0,,,19-02-2025 15:30:06,19-02-2025 15:30:07,0.763s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Web Browser/Page_Lapor Folkatech - Login/input_Password_password""), ""8SQVv/p9jVScEs4/2CZsLw=="")",Chrome 133.0.0.0,,,19-02-2025 15:30:07,19-02-2025 15:30:07,0.384s,PASSED
+"click(findTestObject(""Object Repository/Web Browser/Page_Lapor Folkatech - Login/button_Sign in""))",Chrome 133.0.0.0,,,19-02-2025 15:30:07,19-02-2025 15:30:10,2.920s,PASSED
+"click(findTestObject(""Object Repository/Web Browser/Page_Dashboard/h3_Dashboard""))",Chrome 133.0.0.0,,,19-02-2025 15:30:10,19-02-2025 15:30:41,30.133s,PASSED
+"click(findTestObject(""Web Browser/Page_Dashboard/Page_Daftar Laporan/Page_Daftar Laporan/div_FAQ_icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center""))",Chrome 133.0.0.0,,,19-02-2025 15:30:41,19-02-2025 15:30:58,17.727s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Web Browser/Page_Daftar Laporan/select_102550100""), ""25"", true)",Chrome 133.0.0.0,,,19-02-2025 15:30:58,19-02-2025 15:31:32,33.974s,PASSED
+"setText(findTestObject(""Object Repository/Web Browser/Page_Daftar Laporan/input_Search_form-control form-control-sm""), """")",Chrome 133.0.0.0,,,19-02-2025 15:31:32,19-02-2025 15:31:33,0.833s,PASSED
+"click(findTestObject(""Web Browser/Page_Daftar Laporan/button_Aksi""))",Chrome 133.0.0.0,,,19-02-2025 15:31:33,19-02-2025 15:31:34,0.529s,PASSED
+"click(findTestObject(""Web Browser/Page_Daftar Laporan/a_Detail""))",Chrome 133.0.0.0,,,19-02-2025 15:31:34,19-02-2025 15:31:35,1.699s,PASSED
+"scrollToElement(findTestObject(""Web Browser/Page_Detail Laporan/Page_Detail Laporan/textarea_Komentar Anda_comment""), 0)",Chrome 133.0.0.0,,,19-02-2025 15:31:35,19-02-2025 15:31:36,0.328s,PASSED
+"setText(findTestObject(""Object Repository/Web Browser/Page_Detail Laporan/textarea_Komentar Anda_comment""), ""Test komen"")",Chrome 133.0.0.0,,,19-02-2025 15:31:36,19-02-2025 15:31:36,0.628s,PASSED
+"click(findTestObject(""Object Repository/Web Browser/Page_Detail Laporan/button_Submit""))",Chrome 133.0.0.0,,,19-02-2025 15:31:36,19-02-2025 15:31:37,0.361s,PASSED
+"click(findTestObject(""Object Repository/Web Browser/Page_Detail Laporan/button_OK""))",Chrome 133.0.0.0,,,19-02-2025 15:31:37,19-02-2025 15:31:37,0.781s,PASSED
+"click(findTestObject(""Object Repository/Web Browser/Page_Detail Laporan/a_Dashboard""))",Chrome 133.0.0.0,,,19-02-2025 15:31:37,19-02-2025 15:31:38,1.057s,PASSED
+"click(findTestObject(""Object Repository/Web Browser/Page_Dashboard/img_Admin_img-fluid rounded-circle shadow""))",Chrome 133.0.0.0,,,19-02-2025 15:31:38,19-02-2025 15:31:56,17.090s,PASSED
+"click(findTestObject(""Object Repository/Web Browser/Page_Dashboard/div_Logout""))",Chrome 133.0.0.0,,,19-02-2025 15:31:56,19-02-2025 15:31:56,0.556s,PASSED

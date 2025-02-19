@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="117.225" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="117.225" skipped="0" timestamp="19-02-2025T15:29:59" hostname="Avows - DESKTOP-HVFA1EV" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Avows\\Katalon Studio\\Test Lapor\\Reports\\20250219_152955\\New Test Suite\\20250219_152955"/>
+         <property name="logFiles" value="C:\\Users\\Avows\\Katalon Studio\\Test Lapor\\Reports\\20250219_152955\\New Test Suite\\20250219_152955\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Avows - DESKTOP-HVFA1EV"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.0.0.223"/>
+         <property name="browser" value="Chrome 133.0.0.0"/>
+         <property name="hostAddress" value="192.168.55.1"/>
+         <property name="sessionId" value="5aa6cfb2ee646eaca3b8d455c5352abd"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Fitur Menu Laporan" time="116.871" classname="Test Cases/Fitur Menu Laporan" status="PASSED">
+         <system-out><![CDATA[19-02-2025T15:29:59 - [TEST_CASE][PASSED] - Test Cases/Fitur Menu Laporan: Test Cases/Fitur Menu Laporan
+
+19-02-2025T15:29:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+19-02-2025T15:30:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+19-02-2025T15:30:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+19-02-2025T15:30:02 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+19-02-2025T15:30:02 - [TEST_STEP][PASSED] - navigateToUrl("https://lapor.folkatech.com/"): Navigate to 'https://lapor.folkatech.com/' successfully
+
+19-02-2025T15:30:06 - [MESSAGE][PASSED] - Navigate to 'https://lapor.folkatech.com/' successfully
+
+19-02-2025T15:30:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Web Browser/Page_Lapor Folkatech - Login/input_Email_email"), "admin@example.com"): Text 'admin@example.com' is set on object 'Object Repository/Web Browser/Page_Lapor Folkatech - Login/input_Email_email'
+
+19-02-2025T15:30:07 - [MESSAGE][PASSED] - Text 'admin@example.com' is set on object 'Object Repository/Web Browser/Page_Lapor Folkatech - Login/input_Email_email'
+
+19-02-2025T15:30:07 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Web Browser/Page_Lapor Folkatech - Login/input_Password_password"), "8SQVv/p9jVScEs4/2CZsLw=="): Text ****** has been set on object 'Object Repository/Web Browser/Page_Lapor Folkatech - Login/input_Password_password'
+
+19-02-2025T15:30:07 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Web Browser/Page_Lapor Folkatech - Login/input_Password_password'
+
+19-02-2025T15:30:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Web Browser/Page_Lapor Folkatech - Login/button_Sign in")): Object: 'Object Repository/Web Browser/Page_Lapor Folkatech - Login/button_Sign in' is clicked on
+
+19-02-2025T15:30:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Web Browser/Page_Lapor Folkatech - Login/button_Sign in' is clicked on
+
+19-02-2025T15:30:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Web Browser/Page_Dashboard/h3_Dashboard")): Object: 'Object Repository/Web Browser/Page_Dashboard/h3_Dashboard' is clicked on
+
+19-02-2025T15:30:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Web Browser/Page_Dashboard/h3_Dashboard' is clicked on
+
+19-02-2025T15:30:41 - [TEST_STEP][PASSED] - click(findTestObject("Web Browser/Page_Dashboard/Page_Daftar Laporan/Page_Daftar Laporan/div_FAQ_icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center")): Object: 'Object Repository/Web Browser/Page_Dashboard/Page_Daftar Laporan/Page_Daftar Laporan/div_FAQ_icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center' is clicked on
+
+19-02-2025T15:30:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Web Browser/Page_Dashboard/Page_Daftar Laporan/Page_Daftar Laporan/div_FAQ_icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center' is clicked on
+
+19-02-2025T15:30:58 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Web Browser/Page_Daftar Laporan/select_102550100"), "25", true): All options with value '25' are selected in object 'Object Repository/Web Browser/Page_Daftar Laporan/select_102550100'  using regular expression
+
+19-02-2025T15:31:32 - [MESSAGE][PASSED] - All options with value '25' are selected in object 'Object Repository/Web Browser/Page_Daftar Laporan/select_102550100'  using regular expression
+
+19-02-2025T15:31:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Web Browser/Page_Daftar Laporan/input_Search_form-control form-control-sm"), ""): Text '' is set on object 'Object Repository/Web Browser/Page_Daftar Laporan/input_Search_form-control form-control-sm'
+
+19-02-2025T15:31:33 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Web Browser/Page_Daftar Laporan/input_Search_form-control form-control-sm'
+
+19-02-2025T15:31:33 - [TEST_STEP][PASSED] - click(findTestObject("Web Browser/Page_Daftar Laporan/button_Aksi")): Object: 'Object Repository/Web Browser/Page_Daftar Laporan/button_Aksi' is clicked on
+
+19-02-2025T15:31:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Web Browser/Page_Daftar Laporan/button_Aksi' is clicked on
+
+19-02-2025T15:31:34 - [TEST_STEP][PASSED] - click(findTestObject("Web Browser/Page_Daftar Laporan/a_Detail")): Object: 'Object Repository/Web Browser/Page_Daftar Laporan/a_Detail' is clicked on
+
+19-02-2025T15:31:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Web Browser/Page_Daftar Laporan/a_Detail' is clicked on
+
+19-02-2025T15:31:35 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Web Browser/Page_Detail Laporan/Page_Detail Laporan/textarea_Komentar Anda_comment"), 0): Scroll to object 'Object Repository/Web Browser/Page_Detail Laporan/Page_Detail Laporan/textarea_Komentar Anda_comment' successfully
+
+19-02-2025T15:31:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+19-02-2025T15:31:36 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Web Browser/Page_Detail Laporan/Page_Detail Laporan/textarea_Komentar Anda_comment' successfully
+
+19-02-2025T15:31:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Web Browser/Page_Detail Laporan/textarea_Komentar Anda_comment"), "Test komen"): Text 'Test komen' is set on object 'Object Repository/Web Browser/Page_Detail Laporan/textarea_Komentar Anda_comment'
+
+19-02-2025T15:31:36 - [MESSAGE][PASSED] - Text 'Test komen' is set on object 'Object Repository/Web Browser/Page_Detail Laporan/textarea_Komentar Anda_comment'
+
+19-02-2025T15:31:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Web Browser/Page_Detail Laporan/button_Submit")): Object: 'Object Repository/Web Browser/Page_Detail Laporan/button_Submit' is clicked on
+
+19-02-2025T15:31:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Web Browser/Page_Detail Laporan/button_Submit' is clicked on
+
+19-02-2025T15:31:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Web Browser/Page_Detail Laporan/button_OK")): Object: 'Object Repository/Web Browser/Page_Detail Laporan/button_OK' is clicked on
+
+19-02-2025T15:31:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Web Browser/Page_Detail Laporan/button_OK' is clicked on
+
+19-02-2025T15:31:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Web Browser/Page_Detail Laporan/a_Dashboard")): Object: 'Object Repository/Web Browser/Page_Detail Laporan/a_Dashboard' is clicked on
+
+19-02-2025T15:31:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Web Browser/Page_Detail Laporan/a_Dashboard' is clicked on
+
+19-02-2025T15:31:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Web Browser/Page_Dashboard/img_Admin_img-fluid rounded-circle shadow")): Object: 'Object Repository/Web Browser/Page_Dashboard/img_Admin_img-fluid rounded-circle shadow' is clicked on
+
+19-02-2025T15:31:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Web Browser/Page_Dashboard/img_Admin_img-fluid rounded-circle shadow' is clicked on
+
+19-02-2025T15:31:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Web Browser/Page_Dashboard/div_Logout")): Object: 'Object Repository/Web Browser/Page_Dashboard/div_Logout' is clicked on
+
+19-02-2025T15:31:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Web Browser/Page_Dashboard/div_Logout' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[19-02-2025T15:29:59 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/Fitur Menu Laporan]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NoNama PelaporKategori LaporanProvinsiU_1bf221</name>
+   <tag></tag>
+   <elementGuidId>952c584f-523f-4376-8a8b-f6ab617e2588</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dataTables_scrollBody</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='informations-table_wrapper']/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#informations-table_wrapper div >> internal:has-text=&quot;NoNama PelaporKategori LaporanProvinsiUrgensiStatus LaporanTanggal DibuatOpsiLoa&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca9d1fe2-9ada-421f-80ea-c4b688c6400a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dataTables_scrollBody</value>
+      <webElementGuid>a6317071-a2db-41e7-96e0-b252d4ed7755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NoNama PelaporKategori LaporanProvinsiUrgensiStatus LaporanTanggal DibuatOpsiLoading...</value>
+      <webElementGuid>1f3f2d50-be8d-4a80-9730-93a162a5af7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;informations-table_wrapper&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;dataTables_scroll&quot;]/div[@class=&quot;dataTables_scrollBody&quot;]</value>
+      <webElementGuid>77220112-bddd-4492-8bfc-27bc645dcfb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='informations-table_wrapper']/div[2]/div/div/div[2]</value>
+      <webElementGuid>10155bf2-002d-4049-87be-0babc645cc75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opsi'])[1]/following::div[1]</value>
+      <webElementGuid>4096139e-07df-4692-86be-23cbc782c265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Dibuat'])[1]/following::div[1]</value>
+      <webElementGuid>359cb360-0c05-4904-b454-731b9bdfd56a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>39ae7dbc-e026-4aa6-b0e2-afe4014677cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NoNama PelaporKategori LaporanProvinsiUrgensiStatus LaporanTanggal DibuatOpsiLoading...' or . = 'NoNama PelaporKategori LaporanProvinsiUrgensiStatus LaporanTanggal DibuatOpsiLoading...')]</value>
+      <webElementGuid>fde129fb-efad-4d35-b575-f61fdb344819</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
